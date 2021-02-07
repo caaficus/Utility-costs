@@ -1,6 +1,6 @@
 # Utility-costs
 
-This excel spreadsheet can be used to calculate the utility costs of a variety of services. The formulas and coefficients were taken from the report by [Ulrich and Vasudevan](https://github.com/caaficus/Utility-costs/blob/main/Ulrich%20and%20Vasudevan%20-%20How%20to%20Estimate%20Utility%20Costs.pdf) 
+[This excel spreadsheet](https://github.com/caaficus/Utility-costs/blob/main/Utility_cost_calculation_2020.xlsx) can be used to calculate the utility costs of a variety of services. The formulas and coefficients were taken from the report by [Ulrich and Vasudevan](https://github.com/caaficus/Utility-costs/blob/main/Ulrich%20and%20Vasudevan%20-%20How%20to%20Estimate%20Utility%20Costs.pdf) 
 
 ## User Interface
 
