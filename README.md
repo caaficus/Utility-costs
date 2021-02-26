@@ -22,3 +22,4 @@ The excel spreadsheet has 5 tabs: **Input, coefficientes, CEPCI, Utility costs a
 
 You can add another fuel (e.g., diesel, nuclear, coal, oil,etc) to estimate the price of your utility. 
 
+https://zenodo.org/badge/latestdoi/336856581
